@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rtc.h": "c",
+        "spi_tftlcd.h": "c",
+        "stm32g4xx_hal_flash.h": "c",
+        "main.h": "c"
+    }
+}
